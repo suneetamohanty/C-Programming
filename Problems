@@ -1,0 +1,13 @@
+Problems
+Q1.WAP in C to find the GCD of two integers .
+Q2.WAP in C to find the LCM of two integers
+Q3.WAP to print all the prime number in a range. Range is given by the user.
+Q4.WAP in C to check whether a number n is palindrome number or not.
+Q5.WAP in C to check whether an input integer is perfect number or not.
+Q6.WAP in C to find the first n numbers of a Fibonacci sequence.
+Q7.WAP in C to evaluate the equation y=xn
+ where n is a non-negative integer.
+Q8.WAP in C to sum the following series S=1+(1+2)+(1+2+3)+...+(1+2+3+...+n). n is inputted by the 
+user.
+Q9.WAP in C to input a decimal number and print binary equivalent of that number.
+Q10.WAP in C to input a binary number and print the decimal equivalent of that number
